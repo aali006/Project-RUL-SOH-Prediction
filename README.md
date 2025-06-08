@@ -39,7 +39,7 @@ Battery degradation is a key concern in electric vehicles (EVs), smartphones, an
 | Component     | Tool/Library         |
 |---------------|----------------------|
 | Language      | Python 3.8+          |
-| ML Libraries  | Scikit-learn, XGBoost |
+| ML Libraries  | Scikit-learn, SVM, Random Forest, Decision Tree |
 | EDA & Plots   | Pandas, Matplotlib, Seaborn |
 | Deployment (optional) | Streamlit / Flask |
 
