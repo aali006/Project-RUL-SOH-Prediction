@@ -45,14 +45,6 @@ Battery degradation is a key concern in electric vehicles (EVs), smartphones, an
 
 ---
 
-## 📦 Installation
-
-### 1️⃣ Clone the Repository
-```bash
-git clone https://github.com/your-username/battery-health-prediction.git
-cd battery-health-prediction
-
-
 ##########################################
 
 **Workflow**-
@@ -71,4 +63,14 @@ cd battery-health-prediction
 - Model Saving: Using joblib/pickle
 
 - (Optional): Web App using Streamlit
+
+## 📦 Installation
+
+### 1️⃣ Clone the Repository
+```bash
+git clone https://github.com/your-username/battery-health-prediction.git
+cd battery-health-prediction
+
+
+
 
