@@ -71,6 +71,9 @@ Battery degradation is a key concern in electric vehicles (EVs), smartphones, an
 git clone https://github.com/aali006/Project-RUL-SOH-Prediction/tree/main.git
 cd battery-health-prediction
 
+python run.py
+
+
 
 
 
