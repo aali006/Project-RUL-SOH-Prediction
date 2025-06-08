@@ -1,0 +1,7 @@
+##Requirements##
+
+streamlit
+PyPDF2
+langchain
+faiss-cpu
+openai
